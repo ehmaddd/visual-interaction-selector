@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+}
+
+button, a, iframe, select {
+    margin: 10px;
+    padding: 10px;
+    font-size: 16px;
+}
+
+.interactive-button, .interactive-link, .interactive-video, .interactive-dropdown {
+    border: 2px solid transparent;
+    transition: border-color 0.3s;
+    cursor: pointer;
+}
+
+.interactive-button:hover, .interactive-link:hover, .interactive-video:hover, .interactive-dropdown:hover {
+    border-color: #007bff;
+}
