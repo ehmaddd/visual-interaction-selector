@@ -19,3 +19,11 @@ button, a, iframe, select {
 .interactive-button:hover, .interactive-link:hover, .interactive-video:hover, .interactive-dropdown:hover {
     border-color: #007bff;
 }
+
+#dashboard {
+  border: 1px solid green;
+  border-radius: 4px;
+  width: 30%;
+  margin: 2rem auto auto auto;
+  padding: 1rem 2rem 2rem 2rem;
+}
