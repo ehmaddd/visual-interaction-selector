@@ -40,6 +40,9 @@ To run and test the solution, follow these steps:
 
 8. You can test various scenarios by selecting, unselecting, and interacting with different elements to observe how the application tracks and displays interaction data.
 
+## Live Link
+https://ehmaddd.github.io/visual-interaction-selector/
+
 ## Contributions
 
 Feel free to contribute to this project by opening issues, providing feedback, or submitting pull requests. Your contributions are greatly appreciated.
